@@ -1,0 +1,35 @@
+.page-header {
+    background-color: #ff9400;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+.published-date {
+    color: #828282;
+}
+
+.date-period {
+    color: #2f4f4f;
+}
+
+.content {
+    margin-left: 50px;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+}
+
+.record {
+    margin-bottom: 70px;
+}
+
+.record h1 a {
+    color: #000000;
+}
